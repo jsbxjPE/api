@@ -5,5 +5,5 @@
 ## 随机图片
 
 ```sh
-https://jsbxjpe.github.io/api/
+https://jsbxjpe.github.io/image/index.html
 ```
