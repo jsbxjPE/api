@@ -11,7 +11,7 @@ https://jsbxjpe.github.io/api/img/{要r18填r18,壁纸填pc}.html
 ## 随机音乐
 
 ```sh
-https://jsbxjpe.github.io/api/img/{日漫歌曲填1,日漫纯音乐填2,混合填0}.html
+https://jsbxjpe.github.io/api/music/{日漫歌曲填1,日漫纯音乐填2,混合填0}.html
 ```
 
 ## headers
@@ -27,7 +27,7 @@ https://jsbxjpe.github.io/api/img/pc.html
 ```
 
 ```sh
-https://jsbxjpe.github.io/api/img/0.html
+https://jsbxjpe.github.io/api/music/0.html
 ```
 
 ```sh
