@@ -5,7 +5,7 @@
 ## 随机图片
 
 ```sh
-https://jsbxjpe.github.io/api/img/{要r18填r18,壁纸填pc}.html
+https://jsbxjpe.github.io/api/img/{要*填*,壁纸填pc}.html
 ```
 
 ## 随机音乐
