@@ -4,6 +4,8 @@
 
 ## 随机图片
 
+### 使用方法(. {} 要去掉.)
+
 ```sh
 https://jsbxjpe.github.io/api/img/{要r**填r**,壁纸填pc}.html
 ```
